@@ -155,26 +155,6 @@ Secondary:
 
 ---
 
-## Preview
-
-### Landing Page
-
-![Landing Page](./assets/landing-page.png)
-
-### Sign Up Page
-
-![Sign Up](./assets/signup-page.png)
-
-### Upgrade Plans
-
-![Pricing](./assets/pricing-page.png)
-
-### Payment Flow
-
-![Payment](./assets/payment-page.png)
-
----
-
 ## What I Learned
 
 During this project I practiced:
