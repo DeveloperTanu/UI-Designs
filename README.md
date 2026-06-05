@@ -183,9 +183,9 @@ During this project I practiced:
 
 ## Author
 
-Designed and developed by **Developer**
+Designed and developed by **DeveloperTanu**
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/DeveloperTanu
 
 ---
 
