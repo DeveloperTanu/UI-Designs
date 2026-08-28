@@ -10,10 +10,10 @@ Writive AI is a concept SaaS product that combines three AI-powered tools into a
 
 The goal of this project was to design a clean, modern, and accessible user experience across multiple product touchpoints, including onboarding, pricing, subscriptions, and payments.
 
----
-
 Link to my Figma file: 
 https://www.figma.com/design/wrD8hEeoNmRA3I3dMv0lrp/Web-Development?node-id=0-1&t=JNTfESw1htHJXe64-1
+
+---
 
 ## Project Overview
 
